@@ -1,6 +1,7 @@
 
 ## Hey there 👋, I'm [Dyan!](https://github.com/dyan-isaac/)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dyan-isaac)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ddisaac)
 
